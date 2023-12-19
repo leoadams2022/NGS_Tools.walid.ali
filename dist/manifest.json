@@ -1,0 +1,10 @@
+{
+  "name": "Norma Global Solutions",
+  "short_name": "NGS",
+  "description": "Norma Global Solutions",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
