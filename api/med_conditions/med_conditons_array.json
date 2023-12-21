@@ -1,6 +1,5 @@
 {
-  "dateStr": "12/13/2023 11:59 Pm",
-  "allConditions": [
+  "med_conditons_array": [
     {
       "title": "ngs1",
       "conditions": [
