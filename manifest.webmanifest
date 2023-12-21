@@ -1,1 +1,32 @@
-{"name":"empty_vite_react_app_with_router_and_tailwind","short_name":"empty_vite_react_app_with_router_and_tailwind","start_url":"./","display":"standalone","background_color":"#ffffff","lang":"en","scope":"./"}
+{
+  "name": "empty_vite_react_app_with_router_and_tailwind",
+  "short_name": "empty_vite_react_app_with_router_and_tailwind",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "pwa-64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "maskable-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
