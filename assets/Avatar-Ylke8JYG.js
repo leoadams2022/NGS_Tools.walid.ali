@@ -1,1 +1,0 @@
-import{j as l}from"./index-7gwWhuK-.js";function r({name:t}){var e;return l.jsx("div",{className:"w-10 h-10 bg-background-100 rounded-full text-text-300 relative",children:l.jsx("p",{className:"absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-2xl font-semibold",children:(e=t==null?void 0:t.split(" ")[0])==null?void 0:e[0]})})}export{r as default};
